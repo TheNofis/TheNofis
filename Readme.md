@@ -32,7 +32,7 @@
 
 3. **Builder**<br/><img src="https://skillicons.dev/icons?i=webpack,vite" alt="frontend-builder" />
 
-4. **Other**<br/><img src="https://skillicons.dev/icons?i=figma,tailwind,mui" alt="frontend-framework" />
+4. **Other**<br/><img src="https://skillicons.dev/icons?i=figma,tailwind,mui,redux" alt="frontend-framework" />
 
 ## ❤ BackEnd
 1. **Languages**<br/><img src="https://skillicons.dev/icons?i=ts,js,python" alt="backend-languages" />
